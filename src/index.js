@@ -11,3 +11,4 @@ ReactDOM.render(
 <p>Current time is {time}</p>
 </>
 ,document.getElementById('root'));
+// done commenting the code 
